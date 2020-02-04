@@ -177,7 +177,7 @@
 
     <menuitem name="Appraisal"
               id="menu_hr_appraisal_root"
-              web_icon="oh_appraisal,static/description/appraisal_icon.png"
+              web_icon="oh_appraisal,static/description/icon.png"
               groups="oh_appraisal.group_appraisal_manager,oh_appraisal.group_appraisal_employee"/>
 
     <menuitem name="Appraisal"
